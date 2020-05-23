@@ -1,2 +1,0 @@
-# kazuyoshi
-tech-baseインターンにて
